@@ -1,5 +1,5 @@
 # setwd accordingly 
-
+library(reshape2)
 # Load  features | activity labels
 features <- read.table("UCI HAR Dataset/features.txt")
 features[,2] <- as.character(features[,2])

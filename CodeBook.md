@@ -4,7 +4,7 @@
  
  ## Identifiers
  
- #rownames with quotes 
+
  1 subject - The ID of the test subject
  2 activity - The type of activity performed when the corresponding measurements were taken
  
